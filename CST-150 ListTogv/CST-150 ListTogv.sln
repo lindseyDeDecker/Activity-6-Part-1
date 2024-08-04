@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CST-150 ListTogv", "CST-150 ListTogv.csproj", "{26D42785-853E-4FC0-B216-1B56AD2E347D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D42785-853E-4FC0-B216-1B56AD2E347D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D42785-853E-4FC0-B216-1B56AD2E347D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D42785-853E-4FC0-B216-1B56AD2E347D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D42785-853E-4FC0-B216-1B56AD2E347D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D7C2331-D303-4646-9F46-B70CD90C25C2}
+	EndGlobalSection
+EndGlobal

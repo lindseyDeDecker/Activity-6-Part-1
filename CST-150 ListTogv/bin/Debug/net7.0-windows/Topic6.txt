@@ -1,0 +1,8 @@
+﻿French,Gray,11
+English,gold,7
+Holland,black and white,8
+German,black and white,9
+Cashmere,gray,5
+Lionhead,brown,14
+American Fuzzy,cream and white,10
+pygmy,not sure,4
